@@ -1,0 +1,3 @@
+pokemonsList = [{name: "Turtwig",number:"0387",types:["grass"],photo:"Turtwig.png",detail:"The shell on its back is made of soil. If the shell is moist to the touch, Turtwig is very healthy."},
+{name: "Grotle",number:"0388",types:["grass"],photo:"Grotle.png",detail:"Grotle live in the forest. Each is said to have its own secret place for getting clean springwater."},
+{name: "Torterra",number:"0389",types:["grass","ground"],photo:"Torterra.png",detail:"Ancient people imagined that beneath the ground dwelt a gigantic Torterra."}];
